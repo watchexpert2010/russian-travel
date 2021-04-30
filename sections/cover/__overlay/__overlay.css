@@ -1,0 +1,13 @@
+.cover__overlay {
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  opacity: 0.3;
+}
+
+  .cover__overlay:hover {
+  background: #2A2C2F;
+  opacity: 0.8;
+  transition: opacity 200ms ease-in-out;
+  cursor: url(../../../images/Pointer.png), pointer;
+}
