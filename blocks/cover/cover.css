@@ -3,14 +3,7 @@
   color: #FFFFFF;
   margin-bottom: 92px;
   margin-top: 92px;
-  opacity: 0.8;
-}
-
-
-.cover:hover {
-  opacity: 0.3;
-  transition: opacity 200ms ease-in-out;
-  cursor: url(../../../images/Pointer.png), pointer;
+  background-color: #2A2C2F;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
