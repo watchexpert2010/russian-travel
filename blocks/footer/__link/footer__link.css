@@ -36,7 +36,7 @@
   }
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1280px) and (max-width: 1440px) {
   .footer__link {
     margin-right: 18px;
   }

@@ -24,7 +24,7 @@
   }
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1280px) and (max-width: 1440px) {
   .places {
     width: 76.88%;
     margin-top: 92px;
