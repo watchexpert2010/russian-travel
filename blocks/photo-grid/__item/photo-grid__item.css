@@ -1,32 +1,30 @@
-.places {
+.photo-grid__item {
+  background-repeat: no-repeat;
+  background-size: 100%;
   margin: auto;
-  color: #FFFFFF;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
-  .places {
-    width: 100%;
-    margin-top: 64px;
+  .photo-grid__item {
+    height: 216px;    
   }   
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .places {
-    width: 93.75%;
-    margin-top: 88px;
+  .photo-grid__item {
+    height: 264px;
   }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px){
-  .places {
-    width: 90.625%;
-    margin-top: 92px;
+  .photo-grid__item {
+    height: 225px;
+    width: 100%;
   }
 }
 
 @media screen and (max-width: 1280px) {
-  .places {
-    width: 76.88%;
-    margin-top: 92px;
+  .photo-grid__item {
+    height: 213px;
   }
 }
