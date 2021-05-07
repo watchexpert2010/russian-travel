@@ -26,8 +26,8 @@
   }
 }
 
-@media screen and (min-width: 1280px) and (max-width: 1440px) {
+@media screen and (min-width: 1280px) {
   .footer {
-    width: 92.5%;
+    width: 1184px;
   }
 }

@@ -6,6 +6,7 @@
   position: relative;
   background-image: url(../../images/cover-trains.jpg);
   background-repeat: no-repeat;
+  background-position: center;
   background-size: 100%;
   width: 100%;
 }
@@ -31,9 +32,9 @@
   }
 }
 
-@media screen and (min-width: 1280px) and (max-width: 1440px){
+@media screen and (min-width: 1280px) {
   .cover {
-    width: 92.5%;
+    width: 1184px;
     min-height: 740px;
   }
 }

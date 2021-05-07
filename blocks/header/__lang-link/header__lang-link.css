@@ -6,10 +6,10 @@
   font-style: normal;
   font-weight: normal;
   margin-right: 18px;
+  text-decoration: none;
 }
 
 .header__lang-link:last-of-type {
-  text-decoration: none;
   margin-right: 0;
 }
 

@@ -26,10 +26,10 @@
   }
 }
 
-@media screen and (min-width: 1280px) and (max-width: 1440px) {
+@media screen and (min-width: 1280px) {
   .intro {
-    width: 53.77%;
-    margin-left: 148px;
+    width: 690px;
+    margin-left: 11.56%;
     margin-top: 92px;
   }
 }
