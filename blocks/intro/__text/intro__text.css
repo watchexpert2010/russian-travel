@@ -5,3 +5,9 @@
   font-style: normal;
   font-weight: normal;
 }
+
+@media screen and (min-width: 1280px) {
+  .intro__text {
+    width: 690px;
+  }
+}

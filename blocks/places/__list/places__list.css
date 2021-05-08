@@ -21,13 +21,13 @@
 @media screen and (min-width: 1024px) and (max-width: 1279px){
   .places__list {
     display: grid;
-    row-gap: 80px;
+    row-gap: 17px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .places__list {
     display: grid;
-    row-gap: 80px;
+    row-gap: 17px;
   }
 }
